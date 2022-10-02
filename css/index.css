@@ -1,0 +1,265 @@
+html {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', sans-serif;
+}
+
+#codoimg {
+
+    height: auto;
+    width: 100px;
+    position: relative;
+    box-sizing: border-box;
+
+}
+
+
+#first{
+
+    font-size: 1.4rem;
+
+}
+
+.container6{
+    position: relative;
+}
+
+
+#text1 {
+
+    position: absolute;
+    height: auto;
+    width: auto;
+    text-align: right;
+    top: 33%;
+    right: 6%;
+    box-sizing: border-box;
+
+    
+   
+
+}
+ #padre{
+
+    position: relative;
+    display: inline-block;
+
+ }
+
+#item1 {
+
+    font-size: 1rem;
+ 
+    left: 40%;
+}
+
+#item2 {
+
+    font-size: 1rem;
+    color: rgba(180, 180, 180, 0.669);
+    left: 40%;
+}
+#item3 {
+
+    font-size: 1rem;
+    color: rgba(180, 180, 180, 0.669);
+    left: 40%;
+}
+#item4{
+
+    font-size: 1rem;
+    color: rgba(180, 180, 180, 0.669);
+
+}
+
+
+
+
+
+
+#conf {
+
+    font-size: 2rem;
+    font-weight: 600;
+    box-sizing: border-box;
+    position: relative;
+    height: auto;
+    width: auto;
+}
+
+
+#place {
+
+    height: auto;
+    width: 100%;
+    filter: brightness(50%);
+    box-sizing: border-box;
+    padding: 0%;
+    margin: 0;
+   
+
+
+}
+
+
+#text01, #text02{
+
+    font-size: 1rem;
+}
+
+#button-t {
+
+    background-color: #4cbd49;
+    font-size: 1rem;
+}
+
+.container-fluid {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    position: relative;
+    width: auto;
+    height: auto;
+    --bs-gutter-x: 0 !important;
+}
+
+
+
+
+#text-green {
+
+    color: #4cbd49;
+    font-size: 1rem;
+}
+
+
+#meet {
+
+    text-align: center;
+    font-weight: 450;
+    font-size: 0.68rem;
+    padding-top: 10px;
+    padding-bottom: 0%;
+    margin: 0%;
+}
+
+#speakers {
+
+    text-align: center;
+    font-weight: 600;
+    font-size: 1.6rem;
+    padding-top: 0%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+
+}
+
+#sign-up{
+    text-align: center;
+    font-weight:455;
+    font-size: 0.80rem;
+
+}
+
+.class {
+
+    float: left;
+}
+
+.Jobsimg {
+    width: auto;
+    height: auto;
+    box-sizing: border-box;
+
+}
+
+.Lovelaceimg {
+    height: auto;
+    width: auto;
+    box-sizing: border-box;
+
+}
+
+
+.Gatesimg {
+    height: auto;
+    width: auto;
+    box-sizing: border-box;
+
+}
+
+.card-text{
+
+    font-size: 0.8rem;
+}
+
+
+.container {
+
+    background-color: rgb(59, 59, 59);
+box-sizing: border-box;
+overflow: auto;
+
+
+
+
+}
+
+#beachimg {
+
+   width: 100%;
+   height: auto;
+   
+
+}
+
+#col2{
+
+    background-color: rgb(59, 59, 59);
+    box-sizing: border-box;
+    height: auto;
+    
+}
+
+#bsas{
+
+    font-size: 0.75rem;
+    margin-top: 1rem; 
+    margin-left: 0.8rem;
+    margin-right: 0.8rem;
+}
+
+#h4{
+
+margin-top: 1rem;
+margin-left: 0.8rem;
+font-size: 1.5rem;
+
+}
+
+#button-w{
+
+    margin-top: 1rem;
+    margin-left: 0.8rem;
+    font-size: 0.8rem;
+   
+}
+
+
+
+
+#remember{
+
+    font-size: 0.65rem;
+    color:rgba(99, 99, 99, 0.605);
+}
+
+
+
+#button-g{
+
+    background-color: rgb(174, 225, 8);
+    box-sizing: border-box;
+
+}
